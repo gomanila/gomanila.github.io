@@ -33,11 +33,6 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://example.com/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr"
                 href="https://example.com/fr/categories/"
                 />
@@ -45,6 +40,11 @@
                 rel="alternate"
                 hreflang="pl"
                 href="https://example.com/pl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://example.com/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -123,11 +123,6 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://example.com/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr"
                 href="https://example.com/fr/tags/"
                 />
@@ -135,6 +130,11 @@
                 rel="alternate"
                 hreflang="pl"
                 href="https://example.com/pl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://example.com/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"

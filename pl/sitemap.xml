@@ -12,13 +12,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://example.com/de/categories/"
+                hreflang="fr"
+                href="https://example.com/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/categories/"
+                hreflang="de"
+                href="https://example.com/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -101,13 +101,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://example.com/de/tags/"
+                hreflang="fr"
+                href="https://example.com/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/tags/"
+                hreflang="de"
+                href="https://example.com/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
