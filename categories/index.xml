@@ -6,10 +6,28 @@
     <description>Recent content in Categories on GoManila</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2019 21:02:42 +0000</lastBuildDate>
     
 	<atom:link href="https://www.gomanila.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>meetup</title>
+      <link>https://www.gomanila.org/categories/meetup/</link>
+      <pubDate>Mon, 28 Oct 2019 21:02:42 +0000</pubDate>
+      
+      <guid>https://www.gomanila.org/categories/meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video</title>
+      <link>https://www.gomanila.org/categories/video/</link>
+      <pubDate>Mon, 28 Oct 2019 21:02:42 +0000</pubDate>
+      
+      <guid>https://www.gomanila.org/categories/video/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>announcement</title>
@@ -21,29 +39,11 @@
     </item>
     
     <item>
-      <title>meetup</title>
-      <link>https://www.gomanila.org/categories/meetup/</link>
-      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gomanila.org/categories/meetup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>rsvp</title>
       <link>https://www.gomanila.org/categories/rsvp/</link>
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.gomanila.org/categories/rsvp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>video</title>
-      <link>https://www.gomanila.org/categories/video/</link>
-      <pubDate>Mon, 23 Sep 2019 20:04:36 +0000</pubDate>
-      
-      <guid>https://www.gomanila.org/categories/video/</guid>
       <description></description>
     </item>
     
