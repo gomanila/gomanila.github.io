@@ -6,10 +6,20 @@
     <description>Recent content on GoManila</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Oct 2019 21:02:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2020 14:24:02 +0000</lastBuildDate>
     
 	<atom:link href="https://www.gomanila.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RSVP now for the January 2020 meetup</title>
+      <link>https://www.gomanila.org/blog/2020.01.meetup.rsvp/</link>
+      <pubDate>Mon, 06 Jan 2020 14:24:02 +0000</pubDate>
+      
+      <guid>https://www.gomanila.org/blog/2020.01.meetup.rsvp/</guid>
+      <description>Happy 2020, folks! We&amp;rsquo;re kicking off the new year with our first meetup. This January 13 we&amp;rsquo;ll be at WeWork Uptown BGC with two speakers from Brankas. The meetup would be great for beginners and advanced developers in Go. Don&amp;rsquo;t know anything about the language? There&amp;rsquo;s something for you too!
+If you&amp;rsquo;re a Go newbie or are interested on learning the language, you&amp;rsquo;ll want to Junior Systems Engineer Carlos Daroya.</description>
+    </item>
     
     <item>
       <title>GoManila Mondays! - 10.19 meetup</title>
